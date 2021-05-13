@@ -1,0 +1,92 @@
+.input-form {
+  /* background-color: blue; */
+  /* margin-top: 20px; */
+  margin: 20px 0 0 80px;
+}
+.text {
+  color: rgb(244, 255, 244);
+  font-weight: bold;
+  font-size: larger;
+  
+}
+.text p{
+  /* border: 1px solid green;
+  background-color: rgb(103, 184, 120); */
+  background-color: #7ee8fa;
+  background-image: linear-gradient(315deg, #7ee8fa 0%, #80ff72 74%);
+
+  margin: 50px;
+  padding: 20px;
+}
+
+.input-field {
+  margin: 40px;
+  padding: 40px;
+  padding-bottom: 0;
+
+}
+.input-field textarea {
+  width: 400px;
+  height: 400px;
+  
+  margin-left: 35%;
+}
+.btn {
+  text-align: center;
+}
+.btn button {
+  padding: 8px;
+  margin: 8px;
+  border: 1px solid green ;
+  /* background-color: #7ee8fa; */
+  background-image: linear-gradient(315deg, #29b63c 0%, #127407 74%);
+  color: #ffff;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+
+/* for responsive view */
+@media screen and (max-width: 900px){
+  .input-field textarea {
+    width: 400px;
+    height: 400px;
+    
+    margin-left: 10%;
+    margin-right: 20px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .input-form {
+    margin: 0;
+  }
+  .text p {
+    margin: 10px;
+    text-align: justify;
+    line-height: 1.5;
+  }
+  .input-field {
+    text-align: center;
+  }
+  .input-field textarea {
+    width: 300px;
+    height: 300px;
+    margin: auto;
+   
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .input-field {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .input-field textarea {
+    width: 240px;
+    height: 240px;
+    margin: auto;
+  }
+}
