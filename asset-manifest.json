@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Nutritional_Zone/static/css/main.babe5eb1.chunk.css",
+    "main.js": "/Nutritional_Zone/static/js/main.3b61cf49.chunk.js",
+    "main.js.map": "/Nutritional_Zone/static/js/main.3b61cf49.chunk.js.map",
+    "runtime-main.js": "/Nutritional_Zone/static/js/runtime-main.9b0efa91.js",
+    "runtime-main.js.map": "/Nutritional_Zone/static/js/runtime-main.9b0efa91.js.map",
+    "static/js/2.5ed658b4.chunk.js": "/Nutritional_Zone/static/js/2.5ed658b4.chunk.js",
+    "static/js/2.5ed658b4.chunk.js.map": "/Nutritional_Zone/static/js/2.5ed658b4.chunk.js.map",
+    "static/js/3.ba72a5b9.chunk.js": "/Nutritional_Zone/static/js/3.ba72a5b9.chunk.js",
+    "static/js/3.ba72a5b9.chunk.js.map": "/Nutritional_Zone/static/js/3.ba72a5b9.chunk.js.map",
+    "index.html": "/Nutritional_Zone/index.html",
+    "static/css/main.babe5eb1.chunk.css.map": "/Nutritional_Zone/static/css/main.babe5eb1.chunk.css.map",
+    "static/js/2.5ed658b4.chunk.js.LICENSE.txt": "/Nutritional_Zone/static/js/2.5ed658b4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Nutritional_Zone/static/media/Backgroundimg.a054cff2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b0efa91.js",
+    "static/js/2.5ed658b4.chunk.js",
+    "static/css/main.babe5eb1.chunk.css",
+    "static/js/main.3b61cf49.chunk.js"
+  ]
+}
